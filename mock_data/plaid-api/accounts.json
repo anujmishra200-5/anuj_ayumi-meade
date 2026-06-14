@@ -1,0 +1,37 @@
+{
+  "accounts": [
+    {
+      "account_id": "plaid-acct-checking-001",
+      "balances": {
+        "available": 8450.32,
+        "current": 8450.32,
+        "iso_currency_code": "USD",
+        "limit": null
+      },
+      "mask": "4892",
+      "name": "Household Checking",
+      "official_name": "Pacific Crest CU Share Draft Checking",
+      "type": "depository",
+      "subtype": "checking"
+    },
+    {
+      "account_id": "plaid-acct-savings-001",
+      "balances": {
+        "available": 14200.00,
+        "current": 14200.00,
+        "iso_currency_code": "USD",
+        "limit": null
+      },
+      "mask": "7310",
+      "name": "Emergency Savings",
+      "official_name": "Pacific Crest CU High-Yield Savings",
+      "type": "depository",
+      "subtype": "savings"
+    }
+  ],
+  "item": {
+    "institution_id": "ins_pacific_crest_cu",
+    "item_id": "plaid-item-meade-001"
+  },
+  "request_id": "plaid-req-20261015"
+}

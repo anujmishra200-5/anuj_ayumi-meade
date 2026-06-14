@@ -1,0 +1,108 @@
+{
+  "QueryResponse": {
+    "Bill": [
+      {
+        "Id": "BILL-2026-1001",
+        "VendorRef": {"value": "VEN-101", "name": "Morrison Lumber Supply"},
+        "TxnDate": "2026-10-03",
+        "DueDate": "2026-11-02",
+        "TotalAmt": 874.50,
+        "Balance": 874.50,
+        "Line": [
+          {"LineNum": 1, "Description": "Pressure-treated 4x4 posts x12", "Amount": 396.00, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 2, "Description": "Deck screws - 2 boxes", "Amount": 47.80, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 3, "Description": "Joist hangers 24-pack", "Amount": 341.70, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 4, "Description": "Sales tax", "Amount": 89.00, "DetailType": "ItemBasedExpenseLineDetail"}
+        ],
+        "PrivateNote": "Deck rebuild - Johnson project",
+        "PaymentStatus": "Unpaid",
+        "APAccountRef": {"value": "33", "name": "Accounts Payable"}
+      },
+      {
+        "Id": "BILL-2026-1002",
+        "VendorRef": {"value": "VEN-102", "name": "Pacific Hardware"},
+        "TxnDate": "2026-10-07",
+        "DueDate": "2026-11-06",
+        "TotalAmt": 215.30,
+        "Balance": 0.00,
+        "Line": [
+          {"LineNum": 1, "Description": "PVC pipe fittings - assorted", "Amount": 86.40, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 2, "Description": "Plumber's putty", "Amount": 12.95, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 3, "Description": "Teflon tape - 3 rolls", "Amount": 8.85, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 4, "Description": "Pipe cutter 1-1/4in", "Amount": 91.15, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 5, "Description": "Sales tax", "Amount": 15.95, "DetailType": "ItemBasedExpenseLineDetail"}
+        ],
+        "PrivateNote": "Bathroom remodel - Chen project",
+        "PaymentStatus": "Paid",
+        "APAccountRef": {"value": "33", "name": "Accounts Payable"}
+      },
+      {
+        "Id": "BILL-2026-1003",
+        "VendorRef": {"value": "VEN-103", "name": "Cascade Concrete & Masonry"},
+        "TxnDate": "2026-10-10",
+        "DueDate": "2026-11-09",
+        "TotalAmt": 380.00,
+        "Balance": 380.00,
+        "Line": [
+          {"LineNum": 1, "Description": "Ready-mix concrete 3 yards", "Amount": 315.00, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 2, "Description": "Delivery fee", "Amount": 37.00, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 3, "Description": "Sales tax", "Amount": 28.00, "DetailType": "ItemBasedExpenseLineDetail"}
+        ],
+        "PrivateNote": "Foundation repair - Adams project",
+        "PaymentStatus": "Unpaid",
+        "APAccountRef": {"value": "33", "name": "Accounts Payable"}
+      },
+      {
+        "Id": "BILL-2026-1004",
+        "VendorRef": {"value": "VEN-108", "name": "Morrison's Lumber & Supply Co"},
+        "TxnDate": "2026-09-28",
+        "DueDate": "2026-10-28",
+        "TotalAmt": 612.00,
+        "Balance": 612.00,
+        "Line": [
+          {"LineNum": 1, "Description": "Framing lumber - mixed lot", "Amount": 480.00, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 2, "Description": "Hardware miscellaneous", "Amount": 85.60, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 3, "Description": "Sales tax", "Amount": 46.40, "DetailType": "ItemBasedExpenseLineDetail"}
+        ],
+        "PrivateNote": "Stock order",
+        "PaymentStatus": "Unpaid",
+        "APAccountRef": {"value": "33", "name": "Accounts Payable"}
+      },
+      {
+        "Id": "BILL-2026-0915",
+        "VendorRef": {"value": "VEN-104", "name": "River City Electrical"},
+        "TxnDate": "2026-09-15",
+        "DueDate": "2026-10-15",
+        "TotalAmt": 1245.00,
+        "Balance": 0.00,
+        "Line": [
+          {"LineNum": 1, "Description": "Panel upgrade - 200A service", "Amount": 890.00, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 2, "Description": "Permits and inspection", "Amount": 175.00, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 3, "Description": "Wire and conduit materials", "Amount": 180.00, "DetailType": "ItemBasedExpenseLineDetail"}
+        ],
+        "PrivateNote": "Service upgrade - Thompson project",
+        "PaymentStatus": "Paid",
+        "APAccountRef": {"value": "33", "name": "Accounts Payable"}
+      },
+      {
+        "Id": "BILL-2026-0928",
+        "VendorRef": {"value": "VEN-105", "name": "Northwest Plumbing"},
+        "TxnDate": "2026-09-28",
+        "DueDate": "2026-10-28",
+        "TotalAmt": 475.00,
+        "Balance": 0.00,
+        "Line": [
+          {"LineNum": 1, "Description": "Water heater installation", "Amount": 375.00, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 2, "Description": "Permits", "Amount": 60.00, "DetailType": "ItemBasedExpenseLineDetail"},
+          {"LineNum": 3, "Description": "Sales tax", "Amount": 40.00, "DetailType": "ItemBasedExpenseLineDetail"}
+        ],
+        "PrivateNote": "Water heater replacement - Baker project",
+        "PaymentStatus": "Paid",
+        "APAccountRef": {"value": "33", "name": "Accounts Payable"}
+      }
+    ],
+    "startPosition": 1,
+    "maxResults": 6,
+    "totalCount": 6
+  }
+}

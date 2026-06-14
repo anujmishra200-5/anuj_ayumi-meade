@@ -1,0 +1,9 @@
+customer_id,email,name,created,description
+cus_donor001,donor1@email.com,Robert Chen,2026-09-15,PAPEA supporter
+cus_donor002,donor2@email.com,Lisa Yamamoto,2026-09-15,PAPEA supporter
+cus_donor003,donor3@email.com,James Park,2026-09-20,Cookbook buyer
+cus_donor004,donor4@email.com,Michelle Torres,2026-10-01,PAPEA supporter
+cus_donor005,donor5@email.com,David Tanaka,2026-08-10,Education Foundation donor
+cus_donor006,donor6@email.com,Karen Wright,2026-10-05,Cookbook buyer
+cus_donor007,donor7@email.com,Portland Credit Union Foundation,2026-09-28,Corporate sponsor
+cus_donor008,donor8@email.com,Amy Patel,2026-10-10,Cookbook buyer

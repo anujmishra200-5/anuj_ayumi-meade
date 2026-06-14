@@ -1,0 +1,6 @@
+ContactID,Name,FirstName,LastName,EmailAddress,Phone,ContactStatus,IsSupplier,IsCustomer
+CON-501,Portland Convention Center,Events,Coordinator,events@portlandcc.org,(503) 555-4200,ACTIVE,true,false
+CON-502,Jade Garden Catering,Wei,Chen,wei@jadegardencatering.com,(503) 555-3189,ACTIVE,true,false
+CON-503,PrintWorks PDX,Sarah,Nguyen,sarah@printworkspdx.com,(503) 555-2900,ACTIVE,true,false
+CON-504,Willamette Cultural Society,Marcus,Rivera,marcus@willametteculture.org,(503) 555-7744,ACTIVE,true,false
+CON-505,Morrison Lumber Supply,Tom,Griffith,orders@morrisonlumber.com,(503) 555-8834,ACTIVE,true,false

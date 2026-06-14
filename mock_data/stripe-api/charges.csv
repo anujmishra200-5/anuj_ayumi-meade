@@ -1,0 +1,9 @@
+charge_id,amount,currency,description,customer,status,created,receipt_email
+ch_3PQR001,50.00,usd,PAPEA Fall Fundraiser Donation,cus_donor001,succeeded,2026-10-01,donor1@email.com
+ch_3PQR002,100.00,usd,PAPEA Fall Fundraiser Donation,cus_donor002,succeeded,2026-10-02,donor2@email.com
+ch_3PQR003,25.00,usd,PAPEA Cookbook Purchase x1,cus_donor003,succeeded,2026-10-03,donor3@email.com
+ch_3PQR004,75.00,usd,PAPEA Fall Fundraiser Donation,cus_donor004,succeeded,2026-10-04,donor4@email.com
+ch_3PQR005,150.00,usd,Education Foundation Quarterly Gift,cus_donor005,succeeded,2026-10-05,donor5@email.com
+ch_3PQR006,50.00,usd,PAPEA Cookbook Purchase x2,cus_donor006,succeeded,2026-10-08,donor6@email.com
+ch_3PQR007,200.00,usd,PAPEA Fall Fundraiser Table Sponsor,cus_donor007,succeeded,2026-10-10,donor7@email.com
+ch_3PQR008,30.00,usd,PAPEA Cookbook Purchase x1 + Shipping,cus_donor008,succeeded,2026-10-12,donor8@email.com

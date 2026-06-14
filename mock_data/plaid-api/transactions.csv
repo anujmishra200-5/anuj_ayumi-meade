@@ -1,0 +1,18 @@
+transaction_id,account_id,date,name,amount,iso_currency_code,category,merchant_name,pending
+txn-20261001-001,plaid-acct-checking-001,2026-10-01,PACIFIC CREST CU MORTGAGE PMT,-2400.00,USD,Payment,Pacific Crest CU,false
+txn-20261001-002,plaid-acct-checking-001,2026-10-01,MIKA 529 CONTRIBUTION,-500.00,USD,Transfer,Oregon College Savings,false
+txn-20261001-003,plaid-acct-checking-001,2026-10-01,BACHAN MONTHLY SUPPORT,-400.00,USD,Transfer,Pacific Crest CU,false
+txn-20261002-001,plaid-acct-checking-001,2026-10-02,FRED MEYER #123 GROCERY,-142.67,USD,Groceries,Fred Meyer,false
+txn-20261003-001,plaid-acct-checking-001,2026-10-03,UWAJIMAYA PORTLAND,-87.34,USD,Groceries,Uwajimaya,false
+txn-20261005-001,plaid-acct-checking-001,2026-10-05,COMCAST INTERNET,-89.99,USD,Utilities,Comcast,false
+txn-20261005-002,plaid-acct-checking-001,2026-10-05,PORTLAND GEN ELECTRIC,-156.42,USD,Utilities,Portland General Electric,false
+txn-20261007-001,plaid-acct-checking-001,2026-10-07,PACIFIC HARDWARE 8827,-215.30,USD,Hardware Store,Pacific Hardware,false
+txn-20261007-002,plaid-acct-checking-001,2026-10-07,CHEVRON GAS STATION,-52.18,USD,Gas,Chevron,false
+txn-20261008-001,plaid-acct-checking-001,2026-10-08,BOTTLE SHOP & SPIRITS,-67.40,USD,Alcohol & Bars,Bottle Shop & Spirits,false
+txn-20261009-001,plaid-acct-checking-001,2026-10-09,TRANSFER TO SAVINGS,-500.00,USD,Transfer,Pacific Crest CU,false
+txn-20261009-002,plaid-acct-savings-001,2026-10-09,TRANSFER FROM CHECKING,500.00,USD,Transfer,Pacific Crest CU,false
+txn-20261010-001,plaid-acct-checking-001,2026-10-10,DOORDASH ORDER,-34.87,USD,Food Delivery,DoorDash,false
+txn-20261011-001,plaid-acct-checking-001,2026-10-11,STARBUCKS HAWTHORNE,-6.45,USD,Coffee,Starbucks,false
+txn-20261013-001,plaid-acct-checking-001,2026-10-13,VISA PAYMENT CC,-850.00,USD,Payment,Visa,false
+txn-20261014-001,plaid-acct-checking-001,2026-10-14,PAYROLL DEPOSIT CASCADE RIDGE USD,7708.33,USD,Income,Cascade Ridge Unified SD,false
+txn-20260915-001,plaid-acct-savings-001,2026-09-15,EMERGENCY WITHDRAWAL - EQUIP REPAIR,-4300.00,USD,Transfer,Pacific Crest CU,false

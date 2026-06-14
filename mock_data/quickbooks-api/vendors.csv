@@ -1,0 +1,9 @@
+VendorId,DisplayName,CompanyName,PrimaryPhone,PrimaryEmail,Balance,Active,CreateDate
+VEN-101,Morrison Lumber Supply,Morrison Lumber Supply LLC,(503) 555-8834,orders@morrisonlumber.com,847.50,true,2019-03-15
+VEN-102,Pacific Hardware,Pacific Hardware Inc,(503) 555-9901,billing@pacifichardware.com,0.00,true,2020-07-22
+VEN-103,Cascade Concrete & Masonry,Cascade Concrete & Masonry,(503) 555-7712,info@cascadeconcrete.com,380.00,true,2021-01-10
+VEN-104,River City Electrical,River City Electrical Services,(503) 555-6698,dispatch@rivercityelectric.com,0.00,true,2018-11-05
+VEN-105,Northwest Plumbing,Northwest Plumbing Co,(503) 555-2234,service@nwplumbing.com,0.00,true,2019-06-18
+VEN-106,Greenfield Landscaping,Greenfield Landscaping LLC,(503) 555-4410,info@greenfieldlandscape.com,0.00,true,2022-04-02
+VEN-107,Hendricks Paint & Finish,Hendricks Paint & Finish,(503) 555-3321,sales@hendrickspaint.com,0.00,true,2020-09-14
+VEN-108,Morrison's Lumber & Supply Co,Morrison's Lumber & Supply Co,(971) 555-0142,accounting@morrisonslumber.net,612.00,true,2026-09-25

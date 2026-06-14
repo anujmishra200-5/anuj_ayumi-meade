@@ -1,0 +1,9 @@
+payment_id,created_at,amount_money,status,source_type,location_id,receipt_number,note
+sq-pay-001,2026-10-04T18:30:00Z,12.00,COMPLETED,CARD,loc-cedarbluff,R001,Concession stand - baseball game
+sq-pay-002,2026-10-04T18:32:00Z,8.50,COMPLETED,CARD,loc-cedarbluff,R002,Concession stand - baseball game
+sq-pay-003,2026-10-04T18:45:00Z,15.00,COMPLETED,CASH,loc-cedarbluff,R003,50/50 raffle tickets
+sq-pay-004,2026-10-04T19:10:00Z,6.00,COMPLETED,CARD,loc-cedarbluff,R004,Concession stand - baseball game
+sq-pay-005,2026-10-11T10:00:00Z,25.00,COMPLETED,CARD,loc-willowcreek,R005,Spirit wear - Willow Creek hoodie
+sq-pay-006,2026-10-11T10:15:00Z,18.00,COMPLETED,CARD,loc-willowcreek,R006,Spirit wear - Willow Creek t-shirt
+sq-pay-007,2026-10-11T10:22:00Z,25.00,COMPLETED,CARD,loc-willowcreek,R007,Spirit wear - Willow Creek hoodie
+sq-pay-008,2026-10-11T11:00:00Z,12.00,COMPLETED,CASH,loc-willowcreek,R008,Spirit wear - hat

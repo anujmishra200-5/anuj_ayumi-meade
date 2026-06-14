@@ -1,0 +1,6 @@
+InvoiceID,InvoiceNumber,Contact,DateString,DueDateString,Status,SubTotal,TotalTax,Total,AmountDue,AmountPaid,Type,Reference
+INV-8801,PAPEA-2026-041,Portland Convention Center,2026-09-15,2026-10-15,PAID,1200.00,0.00,1200.00,0.00,1200.00,ACCPAY,Fall fundraiser venue deposit
+INV-8802,PAPEA-2026-042,Jade Garden Catering,2026-09-22,2026-10-22,AUTHORISED,850.00,0.00,850.00,850.00,0.00,ACCPAY,Fundraiser catering estimate
+INV-8803,PAPEA-2026-043,PrintWorks PDX,2026-10-01,2026-10-31,AUTHORISED,340.00,27.20,367.20,367.20,0.00,ACCPAY,Cookbook reprint 200 copies
+INV-8804,PAPEA-2026-044,Willamette Cultural Society,2026-10-05,2026-11-04,AUTHORISED,500.00,0.00,500.00,500.00,0.00,ACCPAY,Co-sponsorship fee heritage month
+INV-8805,PAPEA-2026-045,Morrison Lumber Supply,2026-10-02,2026-11-01,AUTHORISED,180.00,14.40,194.40,194.40,0.00,ACCPAY,Lumber for booth construction

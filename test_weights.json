@@ -1,0 +1,20 @@
+{
+  "TestDiscrepancyDetection::test_morrison_receipt_amount_mentioned": 5,
+  "TestDiscrepancyDetection::test_morrison_qb_amount_mentioned": 5,
+  "TestDiscrepancyDetection::test_discrepancy_flagged": 5,
+  "TestDuplicateDetection::test_duplicate_identified": 5,
+  "TestDuplicateDetection::test_duplicate_files_referenced": 3,
+  "TestInvalidReceiptRejection::test_bottle_shop_rejected": 3,
+  "TestInvalidReceiptRejection::test_bottle_shop_amount": 1,
+  "TestThresholdCompliance::test_cascade_flagged": 3,
+  "TestThresholdCompliance::test_cascade_amount": 1,
+  "TestPaymentVerification::test_pacific_hardware_paid": 3,
+  "TestTotalOutstanding::test_total_outstanding": 3,
+  "TestRejectedCount::test_rejected_count_is_two": 1,
+  "TestSuspiciousEmailFlag::test_suspicious_email_flagged": 3,
+  "TestToolUsage::test_quickbooks_queried": 1,
+  "TestToolUsage::test_gmail_queried": 1,
+  "TestToolUsage::test_plaid_or_bank_statement_used": 1,
+  "TestToolUsage::test_no_distractor_apis": -3,
+  "TestPDFOutput::test_pdf_file_created": 5
+}

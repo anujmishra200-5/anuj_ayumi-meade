@@ -1,0 +1,9 @@
+AccountId,Name,AccountType,AccountSubType,CurrentBalance,Active
+1,Business Checking,Bank,Checking,12845.67,true
+2,Business Savings,Bank,Savings,5200.00,true
+33,Accounts Payable,Accounts Payable,Accounts Payable,2113.50,true
+40,Construction Materials,Expense,SuppliesMaterials,18450.00,true
+41,Subcontractor Labor,Expense,SubcontractedServices,32100.00,true
+42,Equipment Rental,Expense,EquipmentRental,4800.00,true
+43,Permits & Fees,Expense,OtherBusinessExpenses,2350.00,true
+50,Construction Revenue,Income,ServiceFeeIncome,89400.00,true
